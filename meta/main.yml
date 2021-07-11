@@ -1,0 +1,8 @@
+# Credits go to Jeff Geerling https://github.com/geerlingguy/ansible-role-firewall
+
+galaxy_info:
+  role_name: firewall
+  author: carbonique
+  description: Role for installing and setting up a firewall
+  license: "license (MIT)"
+  min_ansible_version: 2.10
