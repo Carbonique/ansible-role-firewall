@@ -11,7 +11,7 @@ This role is a modified version of Jeff Geerlings [`ansible-role-firewall`](http
 Add the following to `requirements.yml`:
 
 ```
-- src: git@gitlab.com:carbonique/ansible-role-firewall.git
+- src: https://github.com/carbonique/ansible-role-firewall.git
   scm: git
   name: firewall
   version: #Leave empty for latest. To download a specific version: use the tag as listed in repo
